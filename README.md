@@ -1,2 +1,2 @@
-# LADIES
-The code for reproducing "Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks"
+# GraphSAINT
+The code for reproducing "GraphSAINT: Graph Sampling Based Inductive Learning Method"
